@@ -32,8 +32,6 @@ This Bash script automates Git commits, pushes changes, and notifies collaborato
 4. Run the script:
    ```
    ./monitor_and_push.sh &
-
-
 ## How It Works
 
 - Monitors a specified directory for changes.
@@ -60,4 +58,8 @@ echo "New update" >> /path/to/monitor/sample.txt
 - Validate SendGrid API key.
 
 
-#End...
+## Name: Arsalan Khan
+## Regno: 2022115
+## Development Operations Assignment: 2
+
+# End...
