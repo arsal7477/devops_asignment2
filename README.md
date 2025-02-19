@@ -58,8 +58,8 @@ echo "New update" >> /path/to/monitor/sample.txt
 - Validate SendGrid API key.
 
 
-## Name: Arsalan Khan
-## Regno: 2022115
-## Development Operations Assignment: 2
+### Name: Arsalan Khan
+### Regno: 2022115
+### Development Operations Assignment: 2
 
 # End...
